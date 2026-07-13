@@ -1,4 +1,8 @@
-# CLAUDE.md
+## Git Workflow
+
+- Use Conventional Commits.
+- Keep commits small.
+- Push changes regularly.# CLAUDE.md
 
 ## Tech Stack
 
